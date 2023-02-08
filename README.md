@@ -1,1 +1,3 @@
-# Scanner-Task-Jillian
+# Name: Jillian
+
+# Partner: Emily
